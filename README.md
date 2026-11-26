@@ -1,4 +1,4 @@
-# Dasai Robot — Web UI, Gesture & Emotion Controller
+# Origo Bot — Web UI, Gesture & Emotion Controller
 
 An ESP8266 differential-drive robot running in Wi-Fi AP mode (`Dasai_Robot`) with an animated SSD1306 OLED face, a built-in browser D-pad web server, and a Python vision client for hand-gesture drive commands and facial-expression OLED moods[cite: 2, 3].
 
