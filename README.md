@@ -11,7 +11,6 @@ An ESP8266 differential-drive robot running in Wi-Fi AP mode (`Dasai_Robot`) wit
 
 ## Pin Connections (ESP8266 NodeMCU)
 - **SSD1306 OLED (128×64, I2C `0x3C`):** `VCC` → `3V3`, `GND` → `GND`, `SDA` → `D2` (GPIO 4), `SCL` → `D1` (GPIO 5)[cite: 3]
-- **Mood Button:** `D4` (GPIO 2, `INPUT_PULLUP`) to `GND` (avoid holding `LOW` during boot)[cite: 3]
 - **L293D Motor Driver:**
   - **Motor A:** `EN1` → `D8` (GPIO 15), `IN1` → `D6` (GPIO 12), `IN2` → `D5` (GPIO 14)[cite: 3]
   - **Motor B:** `EN2` → `D7` (GPIO 13), `IN3` → `D3` (GPIO 0), `IN4` → `D0` (GPIO 16)[cite: 3]
