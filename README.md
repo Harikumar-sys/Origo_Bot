@@ -1,5 +1,3 @@
-# Origo_Bot
-Codes of Origo bot
 # Dasai Robot — Gesture & Expression Controller
 
 An ESP8266 differential-drive desk/rover robot with an animated SSD1306 OLED face, browser D-pad control, and real-time Python hand-gesture + facial-expression control over Wi-Fi AP mode.
